@@ -1,1 +1,1 @@
-print("hello ,freddie mercury!")
+print("hello , slash from Guns n' roses")
